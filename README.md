@@ -10,6 +10,8 @@
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php-logo" /><br>
    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql-logo" /><br>
    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel-logo" /><br>
+
+   -[![trophy](https://github-profile-trophy.vercel.app/?username=Kaspeodor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 - 💞️ I look to collaborate with companies, micro-entrepreneurs or various beginner professionals just like me to create projects and grow together.
 - 📫 Contact me on social media:
