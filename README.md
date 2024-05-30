@@ -1,6 +1,6 @@
-- 👋 Hi, I'm <strong>@Kaspeodor</strong>
+- 👋 Hi, I'm <strong>Kaspeodor</strong>
 - 👀 I'm interested in <b>Website Design</b>, <b>Interactive Layout</b>, <b>Responsive Design</b> and <b>UX</b>
-- 🌱 I'm currently learning Dev Front End, Propriedades Responsivas and Multi Plataform Development with Flutter
+- 🌱 I'm currently learning Dev Front End, Responsive Properties.
 - 💞️ I look to collaborate with companies, micro-entrepreneurs or various beginner professionals just like me to create projects and grow together
 - 📫 Contact me on social media:
 My Instagram: https://www.instagram.com/ig_marquinhos/
